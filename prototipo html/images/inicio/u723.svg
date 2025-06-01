@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="84px" height="78px" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M 42 2  C 64.4 2  82 18.279999999999998  82 39  C 82 59.72  64.4 76  42 76  C 19.599999999999998 76  2 59.72  2 39  C 2 18.279999999999998  19.599999999999998 2  42 2  Z " fill-rule="nonzero" fill="#7f7f7f" stroke="none" fill-opacity="0.43529411764705883" />
+    <path d="M 42 1.5  C 64.68 1.5  82.5 17.999999999999996  82.5 39  C 82.5 60  64.68 76.5  42 76.5  C 19.319999999999997 76.5  1.5 60  1.5 39  C 1.5 17.999999999999996  19.319999999999997 1.5  42 1.5  Z " stroke-width="3" stroke="#000000" fill="none" />
+  </g>
+</svg>
