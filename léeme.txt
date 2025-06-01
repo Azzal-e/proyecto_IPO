@@ -1,0 +1,44 @@
+﻿INICIO DE SESIÓN:
+Las claves de acceso para iniciar sesión son:
+Apodo o correo: admin@gmail.com
+Contraseña: 1234
+
+
+CREAR CUENTA:
+Si el apodo es Josee212, se muestra un error de apodo en uso.
+
+
+GUÍA DE EXPOSICIÓN:
+Para buscar en una página poner el texto “TOP”
+
+
+
+
+CATÁLOGO DE ELEMENTOS:
+Si se escribe el código “123456” la búsqueda tiene resultado
+
+
+AGREGAR AMIGO MEDIANTE CORREO:
+        El campo de texto debe contener al menos un @
+
+
+JUEGO:
+        La opción correcta es la opción de abajo a la izquierda
+
+
+PAGO DE TARJETAS:
+La primera tarjeta guardada siempre dará fallo, mientras que el resto funcionan correctamente.
+
+
+CHATS:
+        Si en el buscador pones “Mari” aparecerán chats que empiezan por “Mari”
+
+
+AÑADIR CONTACTO:
+
+
+        Si pulsas el botón “ACERCAR DISPOSITIVOS” espera 6 segundos y añadirás a un nuevo amigo. A partir de la segunda vez el mensaje será de error.
+
+
+FAVORITOS:
+        Si en el buscador pones “Agente” aparecerá una opción
